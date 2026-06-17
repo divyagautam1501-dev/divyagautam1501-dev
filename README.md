@@ -1,15 +1,9 @@
-## Hi, I'm Divya 👋
-CSE(IOT) Graduate
-<!--
-**divyagautam1501-dev/divyagautam1501-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there 👋, I'm Divya Gautam
 
-### 🚀 Computer Science Engineer | IoT Enthusiast | AI & ML Learner
+CSE(IOT) Graduate
+IoT Enthusiast | AI & ML Learner
 
-I am a passionate Computer Science Engineer with a strong interest in **Artificial Intelligence, Machine Learning, Internet of Things (IoT), Computer Vision, Data Analysis, and Web Development**. I enjoy learning new technologies and building innovative solutions to solve real-world problems.
-
----
+I am a passionate Computer Science Engineer with a strong interest in **Artificial Intelligence, Machine Learning, Internet of Things (IoT), Computer Vision, Data Analysis, and Web Development**
 
 ## 👨‍💻 About Me
 
@@ -44,5 +38,10 @@ I am a passionate Computer Science Engineer with a strong interest in **Artifici
 
 - 💼 LinkedIn: https://www.linkedin.com/in/divya-gautam-49babb2a9?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 📧 Email: divyagautam1501@gmail.com
+
+
+<!--
+**divyagautam1501-dev/divyagautam1501-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ⭐ Thanks for visiting my profile!
